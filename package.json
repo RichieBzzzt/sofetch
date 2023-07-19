@@ -1,8 +1,10 @@
 {
   "name": "sofetch",
   "displayName": "sofetch",
-  "description": "a theme tht is so fetch",
+  "publisher": "richiebzzzt",
+  "description": "a theme that is so fetch",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,5 +19,9 @@
         "path": "./themes/sofetch-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichieBzzzt/sofetch/"
+}
 }
