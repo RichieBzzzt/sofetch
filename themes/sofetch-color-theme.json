@@ -78,7 +78,7 @@
 				"source.yaml"
 			],
 			"settings": {
-				"foreground": "#CC9900"
+				"foreground": "#c09000"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"variable.language",
 			],
 			"settings": {
-				"foreground": "#CC9900"
+				"foreground": "#C09000"
 			}
 		},
 		{
@@ -99,7 +99,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#CC9900"
+				"foreground": "#C09000"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#CC9900"
+				"foreground": "#C09000"
 			}
 		},
 		{
