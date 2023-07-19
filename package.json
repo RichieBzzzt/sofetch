@@ -1,0 +1,21 @@
+{
+  "name": "sofetch",
+  "displayName": "sofetch",
+  "description": "a theme tht is so fetch",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sofetch",
+        "uiTheme": "hc-light",
+        "path": "./themes/sofetch-color-theme.json"
+      }
+    ]
+  }
+}
