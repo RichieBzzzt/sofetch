@@ -3,7 +3,9 @@
 	"colors": {
 		"editor.background": "#f5f5f5",
 		"editor.foreground": "#294429",
-        "list.activeSelectionIconForeground": "#fff"
+        "list.activeSelectionIconForeground": "#fff",
+		"editor.selectionBackground": "#294429",
+		"editor.selectionForeground": "#f5f5f5"
 	},
 	"tokenColors": [
 		{
