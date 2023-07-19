@@ -314,7 +314,7 @@
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#CC9900"
 			}
 		},
 		{
